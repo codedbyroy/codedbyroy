@@ -2,40 +2,63 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ankush+Roy!;Passionate+Java+Developer;DSA+%26+LeetCode+Practitioner;Welcome+to+my+Github+Profile!🍿" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCD&background=00000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ankush+Roy!;Aspiring+AI+Engineer;Java+%26+DSA+Enthusiast;Building+intelligent+agents...🧠" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 💫 About Me
+### 👨‍💻 About Me
 
-- 💻 I’m a developer passionate about writing clean, efficient code and solving complex algorithmic challenges.
-- 🚀 Currently focusing heavily on Mastering **Data Structures and Algorithms (DSA)**.
-- 🎯 Keeping track of my coding journey at my practice repository: **[DSA-HUB](https://github.com/codedbyroy/DSA-HUB)**.
-- 📚 Continually expanding my skill set, studying system design, and building real-world projects.
+- 🧠 **Aspiring AI Engineer**: Currently diving deep into LLMs, Vector Databases, Semantic Search, and AI Agents.
+- ☕ **Java Developer**: Strong foundation in core programming and Data Structures & Algorithms.
+- 🎯 **DSA Practice**: Actively solving problems and building my **[DSA-HUB](https://github.com/codedbyroy/DSA-HUB)** repo.
+- 🚀 **Goal**: Transitioning into AI Engineering to build context-aware, multimodal applications.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Tools & Platform -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,supabase,postgres,docker,git,github,vscode,vercel" />
+  </a>
 </p>
+
+* **Platforms / Utilities**: macOS, Git, GitHub Actions, Docker
+* **Other**: Build Automation, Relational & Vector Databases, Vercel AI SDK
 
 ---
 
-### 📊 GitHub & Coding Stats
+### 🚀 AI Engineering Roadmap (Scrimba Path)
+
+I am systematically learning and building projects along the **AI Engineer Path**:
+
+- [ ] **1. Intro to AI Engineering** ⏳ *(In Progress)*
+  - 🛠️ *Tokens, Prompt Refinement, System Messages, Few-Shot Prompting, Structured Outputs*
+  - 📦 *Solo Project:* **PollyGlot**
+- [ ] **2. Deployment** 🎯 *(Planned)*
+  - 🛠️ *Node Environments, Render Deployment, Smoke Testing, Health Endpoints*
+- [ ] **3. Open-source Models** 🎯 *(Planned)*
+  - 🛠️ *HuggingFace.js, Transformers.js in Browser, Local Models with Ollama*
+- [ ] **4. Embeddings & Vector Databases** 🎯 *(Planned)*
+  - 🛠️ *Semantic Search, Supabase Vector DB, Similarity Queries, RAG Chats*
+  - 📦 *Solo Project:* **PopChoice**
+- [ ] **5. Agents** 🎯 *(Planned)*
+  - 🛠️ *ReAct Prompting, OpenAI Functions Agent, Function Calling & UI Loops*
+  - 📦 *Solo Project:* **AI Travel Agent**
+- [ ] **6. Context Engineering** 🎯 *(Planned)*
+  - 🛠️ *Context Window Management, Context Summarization Techniques*
+- [ ] **7. Vercel AI SDK** 🎯 *(Planned)*
+  - 🛠️ *Agentic Retrieval Routing, Web Search Agents, Customer Support Bot*
+- [ ] **8. Model Context Protocol (MCP)** 🎯 *(Planned)*
+  - 🛠️ *MCP Architecture, Custom Server Tool Definitions & Resources*
+- [ ] **9. Multimodality** 🎯 *(Planned)*
+  - 🛠️ *Text-to-Image Generation, Image Editing, GPT-4 Vision Integrations*
+
+---
+
+### 📊 Coding Activity & Stats
 
 <p align="center">
   <a href="https://github.com/codedbyroy">
@@ -71,5 +94,5 @@
 <br />
 
 <p align="center">
-  <i>"Simplicity is the soul of efficiency." — Austin Freeman</i> 💡
+  <i>"The best way to predict the future is to invent it." — Alan Kay</i> 💡
 </p>
