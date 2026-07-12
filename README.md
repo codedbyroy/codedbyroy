@@ -37,18 +37,6 @@ Currently exploring modern AI engineering including:
 
 ---
 
-# ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🧠 AI Engineering Playground | Complete AI Engineering journey with notes, experiments & projects |
-| 💻 DSA HUB | Java Data Structures & Algorithms with explanations |
-| 📄 AI PDF Chat | Chat with PDFs using Retrieval-Augmented Generation |
-| ✈️ AI Travel Agent | Autonomous AI Agent powered by Function Calling |
-| 🎧 Customer Support AI | AI Assistant using RAG + Vector Search |
-
----
-
 # 🛠 Tech Stack
 
 ### Languages
@@ -113,16 +101,6 @@ Currently Working With
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbyroy&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -135,30 +113,19 @@ Currently Working With
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Build 20+ AI Projects
-- ✅ Master AI Engineering Fundamentals
-- ✅ Learn Production AI Systems
-- ✅ Contribute to Open Source
-- ✅ Land an AI Engineering Internship
-- ✅ Build Products Used by Real Users
-
----
-
 # 🌐 Connect With Me
 
 <p>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ankushroy.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/ankush-kumar-9b197b372">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/codedbyroy">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
