@@ -79,23 +79,10 @@ Currently Working With
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codedbyroy&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyroy&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codedbyroy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyroy&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=codedbyroy&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
