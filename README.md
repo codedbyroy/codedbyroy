@@ -95,8 +95,6 @@ Currently Working With
 
 </p>
 
-> *(You'll enable this using GitHub Actions after creating the profile repository.)*
-
 ---
 
 # 🌐 Connect With Me
